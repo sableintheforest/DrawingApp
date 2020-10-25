@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Trečia Užduotis</string>
+    <string name="trintukas">Trintukas</string>
+    <string name="Autorius">Autorius</string>
+    <string name="Balsas">Balsas</string>
+    <string name="Autoryste">Egle Sabaliauskaite MKDf-16/3</string>
+    <string name="Trinama">Trinama</string>
+    <string name="Netrinama">Netrinama</string>
+    <string name="Spalva">Keisti spalvą</string>
+</resources>

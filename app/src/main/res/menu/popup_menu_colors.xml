@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/white"
+        android:title="Balta"/>
+    <item
+        android:id="@+id/gray"
+        android:title="Pilka"/>
+    <item
+        android:id="@+id/red"
+        android:title="Raudona"/>
+    <item
+        android:id="@+id/black"
+        android:title="Juoda" />
+</menu>
